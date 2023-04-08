@@ -1,0 +1,5 @@
+openai
+boto3
+fastapi
+uvicorn[standard]
+google-cloud-texttospeech

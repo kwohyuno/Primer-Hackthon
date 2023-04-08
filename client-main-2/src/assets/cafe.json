@@ -1,0 +1,26 @@
+{
+    "place" : "cafe",
+    "manager_character": ["a bit hot-headed and cold", "good-humoured", "too much talker", "bad-mannered"],
+    "menu_list" : [
+        {
+            "menu" : "Spiced Yam Capuccino",
+            "price" : "$5"
+        },
+        {
+            "menu" : "Apple Cider",
+            "price" : "$4.5"
+        },
+        {
+            "menu" : "Avocado Toast",
+            "price" : "$11"
+        },
+        {
+            "menu" : "Drip Coffee",
+            "price" : "$4"
+        },
+        {
+            "menu" : "Breakfast Sandwich",
+            "price" : "$8.5"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "language":[
+        {
+            "name":"japanese",
+            "accents" : [{
+                "name": "ja-JP",
+                "man" : {
+                    "voices": ["ja-JP-Standard-C", "ja-JP-Standard-D"]
+                },
+                "woman" : {
+                    "voices": ["ja-JP-Standard-A", "ja-JP-Standard-B"]
+                }
+            }]
+        },
+        {
+            "name":"english",
+            "accents" : [
+            {
+                "name":"en-AU",
+                "man" : {
+                    "voices": ["en-AU-Standard-B","en-AU-Standard-D"]
+                },
+                "woman" : {
+                    "voices": ["en-AU-Standard-A", "en-AU-Standard-C"]
+                }
+            },
+            {
+                "name":"en-IN",
+                "man" : {
+                    "voices": ["en-IN-Standard-B", "en-IN-Standard-C"]
+                },
+                "woman" : {
+                    "voices": ["en-IN-Standard-A", "en-IN-Standard-D"]
+                }
+            },
+            {
+                "name":"en-GB",
+                "man" : {
+                    "voices": ["en-GB-Standard-B", "en-GB-Standard-D","en-GB-Wavenet-B", "en-GB-Wavenet-D"]
+                },
+                "woman" : {
+                    "voices": ["en-GB-Standard-A", "en-GB-Standard-C","en-GB-Standard-F", "en-GB-Wavenet-A", "en-GB-Wavenet-C", "en-GB-Wavenet-F"]
+                }
+            },
+            {
+                "name":"en-US", 
+                "man" : {
+                    "voices": ["en-US-Standard-A","en-US-Standard-B","en-US-Standard-D","en-IN-Standard-B", "en-IN-Standard-C", "en-IN-Wavenet-B", "en-IN-Wavenet-C"]
+                },
+                "woman" : {
+                    "voices": ["en-US-Standard-C","en-US-Standard-E","en-US-Standard-F","en-US-Standard-G", "en-IN-Standard-A", "en-IN-Standard-D", "en-IN-Wavenet-A", "en-IN-Wavenet-D"]
+                }
+            }]
+        }
+    ]
+}
