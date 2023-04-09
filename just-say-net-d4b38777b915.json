@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "just-say-net",
+  "private_key_id": "d4b38777b9154de4ae503a735595c13a8870dd90",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDNL0eK8fPb5+Ao\nlfK9dKtR8K6b6VovC0EmkbOM0H6ehWST+XP2VrDyyIiqTRahe87WJePYlu9GHiOg\nntPqP7sD9AvI6C87KUPVnmhV6KYruktjyUkMIOVzLxIKsFzcb6O5Wiaf4kJ1vtyV\nJsayZJ0w2JMq9u6meiG/LQ0vVrz5EHfNkG+isB3UHUppeKrTYLsMAke4NG+Dim+4\nRGfdFq5tfyyh3l5+0QNVPSrbVVnZ3MyQTEwXGGAdKRDg6mXI9fNuLxNExGqq0hd5\nQSqaSOyZIZQ0J4bheIUjgaL3coPTHHp26/EJUv/pZQdus7sgJrmxSwgGLdkRA9VC\n5O2fOSUhAgMBAAECggEAAlkmDrqu2EjKHLB9Z1pc+AnVUDRUDoye2P27C0iOzX4t\nP+xx+Lp9zRerIalclF2x8rmzmArwogRM+ndry9cXknyWVhgYoVwzzwqi85aX66UK\nb+p/UUAaDbASB12sMcelxHXceYh/VRDMAz5cjnrzw5dioVS/wXUmI1bIxR1ZIShq\nBRY3OZWkZbY1ndHGzw12yl4/yZbmjq2i4J6jz0+7ZhaNG/OBclDyT1Ka9kXkYkye\n2Z3Ohbbalq3VsGd/q0kRO8zhe8l6rq0qTS2Cl1LMuitIaDK5Akk8c+q2nUsJwXZc\nY98cYauW31OQjfk22XxL1I67GKfrtDBLf7MjBCeYywKBgQD4dbbW6d1KC4SWxLTq\nnW8BBITnRQSNqCXW6X7QbWVXi5KJXPtr7KVmOUoRhanQRjjJlG0ZkQSefOYRq07i\nUO6gVUwCp7tF9e4PnVwRl8gk0J4X9ni/uksUQ1JEOuthw3ONsZIoj6eOLJcuKhwr\n2am9zwYHQsuH3ydvavOEmDR7IwKBgQDTaVxHn2NrjF7NY9U+1ODHsyUbS/NGXFgi\nDCZ4dXRed0saDy6VepPKR/FSTBI07kIsdvsZOEXucgANWE4aCVyRfCu74jDuJeEB\neuTtWhZ7jJibmJKnWuvdusEWjx7EAJNu1oIQW4nw/5Diu6VP5KAO0wVO5cW6MNm8\nDckFmuM06wKBgQDhlI6yxZZCmf6BnIrd0J5uABpil4kwzA++9jRLLGesem5LBP7I\n2Ay7qRwUmJS7ImaArp/3bHETLDb+p9hxJiXhsE/YwU0IkebYiniDCJmQw1AmVYMA\nIDX2acERbaU0F+6cITKgXP012kpQga8eKPsx9/pzMTP1Yqg9Qo9iPYa4nQKBgQDN\nxqnplPzCfBjytg+kXrSD7J1bmmuqusuWKFlxunGQWXEiZlCjcnJT2/7Kafz2xEpo\n2U7DV4DJ/PCMDL3IngAaI9C1yg5yXzBJroMRfDSSAWGxYaqtdtRKODMlcB00DpNy\nuRxUK6VyjG9MIfVgdFpO05tBFmmFN3NXldtqtz4cDQKBgQCR2exwcxEpBqHw2FpO\nB2vvRoOu2PcBPXhWLXR0FF0Z22+prI7TDtd+xsLzbMZfOyfaibL6IY9+Vw19qUUr\nwrwCGHqhgonOTCraT5taSfYIqaEMMz8EJIZVsJmAsXCjM38IeOf/iNRAXkzZgV91\nVNofit/wyHQAO9RdYvhoO5ZbCg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "just-say-tts@just-say-net.iam.gserviceaccount.com",
+  "client_id": "100493006916250357053",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/just-say-tts%40just-say-net.iam.gserviceaccount.com"
+}
